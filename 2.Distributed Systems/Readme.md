@@ -2,7 +2,6 @@
 
 Distributed systems are a fundamental concept in computer science and software engineering, playing a crucial role in modern computing infrastructures. They involve a network of autonomous computers that communicate and collaborate with each other to achieve a common goal. Here's a detailed explanation of distributed systems:
 
-## Definition
 - A distributed system is a collection of independent computers that appear to its users as a single coherent system. 
 - These computers, often referred to as nodes or hosts, communicate with each other over a network to perform tasks or provide services.
 - The primary goal of distributed systems is to provide scalability, reliability, and fault tolerance by distributing the workload across multiple nodes.
